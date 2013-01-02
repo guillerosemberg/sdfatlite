@@ -1,0 +1,4 @@
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "u8FileName"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "root_Entries"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "u16FAT_Root_BASE"
+Data:2 < ADDXPR ONLY_ADD_IF_NEW "ag8FATReadBuffer"
